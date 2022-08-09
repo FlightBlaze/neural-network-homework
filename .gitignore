@@ -1,3 +1,5 @@
 venv/
-nlp/hw1_actual/result.pickle
 .DS_Store
+nlp/hw1_actual/result.pickle
+nlp/Lesson-2/negative.csv
+nlp/Lesson-2/positive.csv
